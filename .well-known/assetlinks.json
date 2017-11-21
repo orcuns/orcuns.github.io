@@ -2,9 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.dwarfplanet.bundle",
+    "package_name": "com.gittigidiyormobil",
     "sha256_cert_fingerprints":
-    ["A4:51:72:90:67:7F:D5:9E:3B:D7:9A:01:64:41:92:3E:D4:99:2D:BE:C0:E2:80:D4:11:2F:7E:94:1A:A2:DB:25"]
+    ["CC:CF:8B:38:3D:D3:94:29:FD:0F:5F:0F:BF:02:13:94:60:44:65:19:65:B4:12:D3:2E:4E:D3:B1:E8:08:D5:A5"]
   }
 },
 {
@@ -18,8 +18,8 @@
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.dwarfplanet.bundle",
+    "package_name": "com.gittigidiyormobil",
     "sha256_cert_fingerprints":
-    ["A4:51:72:90:67:7F:D5:9E:3B:D7:9A:01:64:41:92:3E:D4:99:2D:BE:C0:E2:80:D4:11:2F:7E:94:1A:A2:DB:25"]
+    ["CC:CF:8B:38:3D:D3:94:29:FD:0F:5F:0F:BF:02:13:94:60:44:65:19:65:B4:12:D3:2E:4E:D3:B1:E8:08:D5:A5"]
   }
 }]
